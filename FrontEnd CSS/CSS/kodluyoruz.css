@@ -1,0 +1,45 @@
+body {
+    background-color: #ca8309b2; 
+    background-image: url(https://i4.hurimg.com/i/hurriyet/75/1200x675/6145b1244e3fe1083811ec11.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+      
+  }
+
+  h1 {
+    text-align: center;
+    color: rgb(242, 239, 245);
+    font-size: 60px;
+    font-style: oblique;   
+
+  }
+
+  article {
+    text-align: center;
+     }
+  a{
+    color: aliceblue;
+  }
+
+  p {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(214, 209, 205);
+    font-style:italic;
+  }
+  h2 {
+    text-align: center;
+    font-size: 45px;
+    color: rgb(247, 246, 245);
+    font-style: italic;
+     
+  }
+
+  ul{
+    color: aliceblue;
+  }
+
+
+  
